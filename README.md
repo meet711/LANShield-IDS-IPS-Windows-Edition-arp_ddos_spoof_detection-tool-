@@ -258,4 +258,4 @@ because under normal operation a host receives very few unsolicited echo replies
 
 ---
 
-*NetShield IDS/IPS Windows Edition | Cybersecurity Minor Project 2026*
+*LANShield IDS/IPS Windows Edition | Cybersecurity Minor Project 2026*
