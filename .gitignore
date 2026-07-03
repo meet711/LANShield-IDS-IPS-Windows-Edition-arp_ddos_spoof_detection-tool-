@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary test logs
+*.log
+test_log.txt
+
+# Firebase credentials (prevent committing private keys)
+arp-ddos-idps-firebase-adminsdk-*.json
+firebase-key.json
+
+# IDE settings
+.idea/
+.vscode/
+venv/
+.venv/
+env/
+.env/
