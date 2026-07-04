@@ -3,50 +3,6 @@
 
 ---
 
-## 👤 Developer Profile
-
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <h3>Meet</h3>
-      <p align="left">
-        <strong>Cybersecurity Student | M.Sc. Digital Forensics & Information Technology</strong><br>
-        <em>National Forensic Sciences University (NFSU)</em>
-      </p>
-      <p align="left">
-        A passionate cybersecurity researcher and developer specializing in network security, threat mitigation, and digital investigation. Currently pursuing an M.Sc. at NFSU, I focus on analyzing network traffic, identifying system vulnerabilities, and building automated security tools (like NetShield) to defend against sophisticated cyber threats.
-      </p>
-      <p align="left">
-        <b>Connect & Collaborate:</b> <a href="https://github.com/meet711">GitHub</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🛠 Core Competencies & Skills
-
-- **🌐 Networking & Protocol Analysis**
-  - Packet Sniffing & Analysis (Scapy, Wireshark)
-  - Network Protocols (TCP/IP, ARP, ICMP, UDP, DNS)
-  - Subnetting, Routing, and Switch Configurations
-
-- **🔒 Information Security & Mitigation**
-  - Intrusion Detection & Prevention Systems (IDS/IPS)
-  - Windows Firewall & `netsh` Automation, Linux `iptables`
-  - Threat Detection, Risk Assessment & Access Control
-
-- **⚔️ Offensive Security & Vulnerability Assessment**
-  - Penetration Testing & Exploit Analysis (Kali Linux, Metasploit)
-  - Attack Simulation (DDoS, ARP Spoofing, MITM, ICMP Smurf)
-  - Vulnerability Scanning & Security Hardening
-
-- **🔍 Digital Forensics & Incident Response (DFIR)**
-  - Network & Host-Based Forensics
-  - Forensic Log Analysis, Artifact Acquisition, and Evidence Preservation
-  - Malware Analysis & Memory Forensics (Volatility, Autopsy)
-
----
-
 ## ⚙️ What Changed from the Linux Version
 
 | Feature | Linux Version | Windows Edition |
