@@ -1,4 +1,4 @@
-# 🛡 NetShield IDS/IPS — Windows Edition
+# 🛡 LANShield IDS/IPS — Windows Edition
 ### Real-Time ARP Spoofing, DDoS & Smurf Detection with Automated Mitigation
 
 ---
